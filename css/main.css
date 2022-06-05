@@ -803,6 +803,16 @@ header ul > li > a {
   border-radius: 5px;
 
 }
+@media(max-width:520px){
+  .work .box .source > a::before{
+    
+    top: -40px;
+    left: 50%;
+
+  
+  }
+
+}
 
 .work .box .source > a:first-of-type::before{
   
